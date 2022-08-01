@@ -1,0 +1,54 @@
+#saladtable{
+    background-image:url("../images/salad.jpg");
+    color: white;
+    float: left;
+    padding-bottom: 245px;
+    margin-bottom: 5px;
+}
+
+.wrapper{
+    height: 100%;
+    width: 100%;
+}
+
+#nav{
+    background-image:url('../images/sky.jpeg')
+}
+
+.navbar-brand{
+    color:white;
+}
+
+#saladcenter{
+    padding-top:100px;
+    margin-bottom: -100px;
+    text-shadow:2px 1px black;
+}
+
+#containerTable{
+    max-height: 650px;
+    overflow: auto;
+    float: left;
+    margin-bottom: 5px;
+}
+
+#footer_wrapper{
+    width:100%;
+    float:left;
+    background-color:lightblue;
+    text-align:left;
+}
+
+#footer1{
+    text-align: center;
+    color:graytext;
+}
+
+p{
+    padding-top: 8px;
+    margin-bottom: 8px;
+}
+
+form input[type=submit]{
+    margin-top: 10px;
+}
